@@ -3,7 +3,7 @@ hello github!
 3333333333333hello github!
 4444444444444hello github!
 55555 master test hello github!
-66666 master test2hello github!
+hello github!
 hello github!
 hello github!
 hot-fix test hello github!
